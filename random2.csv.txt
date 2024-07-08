@@ -1,0 +1,12 @@
+***** Aug *****
+Measured days: 10
+Average temperature: 87.60
+
+***** Dec *****
+Measured days: 12
+Average temperature: 62.79
+
+***** Total *****
+Measured months: 2
+Measured days: 22
+Average temperature: 74.07

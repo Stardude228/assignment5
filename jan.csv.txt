@@ -1,0 +1,8 @@
+***** Jan *****
+Measured days: 20
+Average temperature: 64.00
+
+***** Total *****
+Measured months: 1
+Measured days: 20
+Average temperature: 64.00

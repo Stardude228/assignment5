@@ -1,0 +1,12 @@
+***** Feb *****
+Measured days: 20
+Average temperature: 68.72
+
+***** Jul *****
+Measured days: 20
+Average temperature: 86.53
+
+***** Total *****
+Measured months: 2
+Measured days: 40
+Average temperature: 77.62

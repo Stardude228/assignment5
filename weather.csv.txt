@@ -1,0 +1,52 @@
+***** Jan *****
+Measured days: 31
+Average temperature: 64.65
+
+***** Feb *****
+Measured days: 28
+Average temperature: 70.27
+
+***** Mar *****
+Measured days: 31
+Average temperature: 72.31
+
+***** Apr *****
+Measured days: 30
+Average temperature: 76.95
+
+***** May *****
+Measured days: 31
+Average temperature: 79.61
+
+***** Jun *****
+Measured days: 30
+Average temperature: 83.23
+
+***** Jul *****
+Measured days: 31
+Average temperature: 86.48
+
+***** Aug *****
+Measured days: 31
+Average temperature: 86.89
+
+***** Sep *****
+Measured days: 30
+Average temperature: 83.78
+
+***** Oct *****
+Measured days: 31
+Average temperature: 77.55
+
+***** Nov *****
+Measured days: 30
+Average temperature: 70.43
+
+***** Dec *****
+Measured days: 31
+Average temperature: 64.92
+
+***** Total *****
+Measured months: 12
+Measured days: 365
+Average temperature: 76.45
