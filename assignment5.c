@@ -108,7 +108,7 @@ int main(int argc, char *argv[]) {
     fprintf(fout, "***** Total *****\n");
     fprintf(fout, "Measured months: %d\n", measured_months);
     fprintf(fout, "Measured days: %d\n", total_days);
-    fprintf(fout, "Average temperature: %.2f\n", total_temperature / total_days);
+    fprintf(fout, "Average temperature: %.2f\n\n", total_temperature / total_days);
 
     // Closes the files.
     fclose(fp);
